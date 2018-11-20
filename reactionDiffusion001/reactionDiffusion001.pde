@@ -46,6 +46,8 @@ void setup()
   }
   
   keyPressed();
+  keyPressed();
+  keyPressed();
 }
 
 void setRect( int xx, int yy, int w, int h, float c )
